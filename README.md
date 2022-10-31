@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomSchmitzDE
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#, specifically ASP and WPF. Also I learn to hack. 
-- 💞️ I’m working on Software solution for BGM and an web-based RAT.
+- 💞️ I’m working on Software solution for BGM.
 - 📫 How to reach me: info@tom-schmitz.de, tom-schmitz.de
