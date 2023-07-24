@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LUCKYONE-CC
 - 👀 I’m interested in C#
 - 🌱 I’m currently learning C#, specifically ASP and WPF.
+- Discord: `the.luckyone`
 
-**Tech Stack**
+**Tech Stack:**
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat" />
@@ -13,7 +14,7 @@
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
   <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat" />
-  <img alt="MSSQL" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat" />
+  <img alt="SQLLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat" />
 </p>
 <p>
 
@@ -32,5 +33,22 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-![LUCKYONEs GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyone-cc&show_icons=true&theme=radical)
+<br><br>
+<div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LUCKYONE&theme=midnight-purple&mode=weekly" alt="luckyone-cc" />
+   </p>
+  </div>
+ </div>
+<br><h2></h2><br>
+
+<br><br>
+<div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyone-cc&show_icons=true&theme=radical" alt="luckyone-cc" />
+   </p>
+  </div>
+ </div>
 
