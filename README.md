@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LUCKYONE-CC
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#, specifically ASP and WPF.
 - Discord: `the.luckyone`
 
 **Tech Stack:**
