@@ -32,17 +32,8 @@
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
-<br><br>
-<div align="center">
- <div>
-   <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=LUCKYONE&theme=midnight-purple&mode=weekly" alt="luckyone-cc" />
-   </p>
-  </div>
- </div>
 <br><h2></h2><br>
 
-<br><br>
 <div align="center">
  <div>
    <p>&nbsp;
