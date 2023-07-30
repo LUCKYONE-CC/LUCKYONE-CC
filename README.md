@@ -41,5 +41,3 @@
    </p>
   </div>
  </div>
-
-Fido_de07 copied my readme
