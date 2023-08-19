@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#
 - Discord: `the.luckyone`
 
-**Tech Stack:**
+**Programming languages used:**
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat" />
@@ -25,7 +25,7 @@
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 </p>
 
-**Operating System familiar with:**
+**Operating Systems familiar with:**
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
