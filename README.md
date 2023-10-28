@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#
 - Discord: `the.luckyone`
 
-**Programming languages used:**
+**Technologies used:**
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat" />
