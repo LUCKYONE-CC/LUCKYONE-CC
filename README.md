@@ -14,7 +14,6 @@
   <img alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?logo=sass&logoColor=white&style=flat" />
   <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat" />
   <img alt="SQLLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat"/>
 </p>
 <p>
 
@@ -30,6 +29,7 @@
 **Operating Systems familiar with:**
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-grey?logo=linux" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=flat"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
 </p>
 
