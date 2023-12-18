@@ -35,20 +35,30 @@
 
 <br><h2></h2><br>
 
+ <div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LUCKYONE-CC&theme=midnight-purple&hide_border=false" alt="luckyone-cc" />
+   </p>
+  </div>
+ </div>
+
+<br><h2></h2><br>[](url)
+
 <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luckyone-cc&show_icons=true&theme=radical" alt="luckyone-cc" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=LUCKYONE-CC&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="luckyone-cc" />
    </p>
   </div>
  </div>
 
  <br><h2></h2><br>
 
- <div align="center">
+  <div align="center">
  <div>
    <p>&nbsp;
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LUCKYONE-CC&theme=midnight-purple&hide_border=false" alt="luckyone-cc" />
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCKYONE-CC&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="luckyone-cc" />
    </p>
   </div>
  </div>
