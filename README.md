@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LUCKYONE-CC
-- 👀 I’m interested in C#
-- Discord: `the.luckyone`
+  <h1 align="center">Hello 👀, I'm Tom!</h1> 
+  <h3 align="center">A passionate C# developer who enjoys building innovative and exceptional software solutions</h3>
+    <br/><br/>
 
 **Technologies used:**
 <p>
@@ -62,3 +62,7 @@
    </p>
   </div>
  </div>
+
+ <br><h2></h2><br>
+
+- Discord: `the.luckyone`
