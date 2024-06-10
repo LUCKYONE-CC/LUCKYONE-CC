@@ -5,7 +5,9 @@
 **Technologies used:**
 <p>
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff&style=flat" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat" />
+  <img alt=".NET" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat" />
   <img alt="Blazor" src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
