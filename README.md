@@ -1,6 +1,6 @@
   <h1 align="center">Hello 👀, I'm Tom!</h1> 
   <h3 align="center">A passionate C# developer who enjoys building innovative and exceptional software solutions</h3>
-  <h3 align="center">- To be honest with you. Most of my projects are closed source. Sorry about that. -</h3>
+  <h4 align="center">- To be honest with you. Most of my projects are closed source. Sorry about that. -</h4>
     <br/><br/>
 
 **Technologies used:**
